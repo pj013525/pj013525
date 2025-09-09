@@ -87,6 +87,8 @@ Here are some of my highlighted projects 👇
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=netflix-clone-devops&theme=tokyonight" />
 </p>
 
+**Repo:** [Netflix Clone Project](https://github.com/pj013525/Netflix-Project.git)
+
 ---
 
 ### 📌 **2. Board Game 🎮**  
@@ -97,25 +99,19 @@ Here are some of my highlighted projects 👇
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=board-game&theme=tokyonight" />
 </p>
 
+**Repo:** [Board Game Project](https://github.com/pj013525/New-Boardgame.git)
+
 ---
 
 ### 📌 **3. Mission Game 🚀**  
 🔹 Strategy-based game designed for **learning automation**  
 🔹 Uses **Python scripting + Linux commands**  
-🔹 Includes logging, checkpoints, and scoring system  
+🔹 Includes logging, checkpoints, and a scoring system  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=mission-game&theme=tokyonight" />
 </p>
 
----
-
-### 📌 **4. DevSecOps Pipeline**  
-🔹 Integrated **SonarQube, Trivy, and Snyk** for security scanning  
-🔹 Automated builds with **Jenkins + ArgoCD**  
-🔹 Deployment to **Kubernetes** with GitOps principles  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=devsecops-pipeline&theme=tokyonight" />
-</p>
+**Repo:** [Spy-Mission Game Project](https://github.com/pj013525/Spy-Mission-App.git)
 
 ---
 
