@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/pj013525/pj013525/main/banner.png" alt="Padmarao Jonna | DevOps Engineer Banner">
 </div>
 
 <h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future</h3>
