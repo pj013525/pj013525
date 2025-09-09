@@ -1,105 +1,248 @@
-<h1 align="center">Hey Everyone 👋, I'm Padmarao Jonna</h1>
+<!-- HEADER WITH COLORFUL WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20Everyone%20👋,%20I'm%20Padmarao%20Jonna&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,10,20,30" />
+</p>
 
-<h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future</h3>
+<h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future 🌐</h3>
 
 ---
 
-<!-- DevSecOps & Tools Showcase --> <div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" width="50"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50" width="50"/> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50" width="50"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50" width="50"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="50"/> </div>
+<!-- BACKGROUND ANIMATED GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2b/8c/63/2b8c6355e6ff450f6e4562e5f3f3b6e0.gif" width="100%" height="200">
+</p>
+
+---
+
+<!-- ICON SHOWCASE WITH COLORS -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,argo,grafana,prometheus,linux,nginx,python,java,mysql,maven,bash&theme=light&perline=8" />
+</div>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pj013525&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pj013525&label=👀%20Profile%20Views&color=ff4500&style=for-the-badge" alt="Profile Views" />
 </p>
-
-- 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/pj013525)  
-- 💬 Ask me about **DevOps, Cloud, and CI/CD**  
-- 📫 How to reach me **padmaraojonna@gmail.com**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+### 🎯 Quick Highlights
+- 👨‍💻 All my projects live here → [GitHub Repos](https://github.com/pj013525)  
+- 💬 Ask me about **DevOps, Cloud, and CI/CD**  
+- 📫 Reach me anytime → **padmaraojonna@gmail.com**  
+- 🌱 Currently exploring → **Cloud Security & GitOps**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
   <a href="https://linkedin.com/in/padmarao-jonna" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/pj013525" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:padmaraojonna@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
-
 ---
 
-<h3 align="left">⚒️ Languages and Tools:</h3>
-<p align="left">
+## ⚒️ Languages & Tools (Colorful Section)
 
-  <!-- Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-
-  <!-- DevOps & Containers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
-
-  <!-- Monitoring & Security -->
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
- 
-  <!-- Infra & OS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-
-  <!-- Programming & DB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pj013525&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+## 📊 GitHub Stats  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pj013525&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-
-### 🔥 GitHub Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pj013525&theme=vue&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pj013525&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pj013525&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pj013525&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pj013525&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations  
+## 🔝 Top Contributed Repos  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pj013525&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👨‍💼 About Me & 🤝 Collaborations  
 
 I’m **Padmarao Jonna**, an enthusiastic **AWS Cloud & DevSecOps Engineer** passionate about building secure, automated, and scalable cloud infrastructures.  
 
-🔹 I have hands-on experience in **DevOps & DevSecOps practices** — from designing **CI/CD pipelines** to integrating **security & compliance checks** directly into the software delivery lifecycle.  
-🔹 Proficient in **AWS, Azure, Docker, Kubernetes, Terraform, and Ansible**, I focus on **Infrastructure as Code (IaC)** and automation to deliver faster, more reliable, and secure deployments.  
-🔹 Skilled in **monitoring & observability** using **Prometheus, Grafana, Loki, and ELK**, ensuring systems remain highly available and performance issues are detected early.  
-🔹 Experienced in **security tools** such as **SonarQube, Trivy, Snyk**, and best practices like vulnerability scanning, secret management, and compliance enforcement.  
-🔹 Strong background in **Linux, Networking, and Scripting (Bash, Python)** for automation, troubleshooting, and system administration.  
+🔹 Hands-on experience in **CI/CD pipelines, IaC, and Security automation**  
+🔹 Proficient in **AWS, Azure, Docker, Kubernetes, Terraform, Ansible**  
+🔹 Strong in **Monitoring (Grafana, Prometheus, Loki, ELK)**  
+🔹 Skilled in **Security tools**: SonarQube, Trivy, Snyk  
+🔹 Background in **Linux, Networking, Bash, and Python**  
 
-💡 My goal is to **bridge the gap between Development, Security, and Operations** while promoting a culture of automation, reliability, and security.  
+💡 Bridging the gap between **Development, Security & Operations**  
+🤝 Open to **collaborations, freelance consulting, and DevOps/Cloud projects**  
+🎯 Exploring **Kubernetes & Security automation**  
+🎮 Fun side projects: **Board Game & Mission Game**  
+📧 Contact: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
 
-🤝 Open to **collaborations, freelance consulting, and exciting DevOps/Cloud projects**  
-🎯 Always exploring new technologies in **Cloud, Kubernetes, and Security automation**  
-🎮 Outside of tech, I love creating fun projects like **Board Game** & **Mission Game**  
-📧 Reach me anytime: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
+---
 
-> *"Automating the future, one pipeline at a time!"*
+<!-- COLORFUL FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=0,10,20,30,40" />
+</p>
+<!-- HEADER WITH COLORFUL WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20Everyone%20👋,%20I'm%20Padmarao%20Jonna&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,10,20,30" />
+</p>
+
+<h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future 🌐</h3>
+
+---
+
+<!-- BACKGROUND ANIMATED GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2b/8c/63/2b8c6355e6ff450f6e4562e5f3f3b6e0.gif" width="100%" height="200">
+</p>
+
+---
+
+<!-- ICON SHOWCASE WITH COLORS -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,argo,grafana,prometheus,linux,nginx,python,java,mysql,maven,bash&theme=light&perline=8" />
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pj013525&label=👀%20Profile%20Views&color=ff4500&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+### 🎯 Quick Highlights
+- 👨‍💻 All my projects live here → [GitHub Repos](https://github.com/pj013525)  
+- 💬 Ask me about **DevOps, Cloud, and CI/CD**  
+- 📫 Reach me anytime → **padmaraojonna@gmail.com**  
+- 🌱 Currently exploring → **Cloud Security & GitOps**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/padmarao-jonna" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/pj013525" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:padmaraojonna@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## ⚒️ Languages & Tools (Colorful Section)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pj013525&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pj013525&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pj013525&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pj013525&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👨‍💼 About Me & 🤝 Collaborations  
+
+I’m **Padmarao Jonna**, an enthusiastic **AWS Cloud & DevSecOps Engineer** passionate about building secure, automated, and scalable cloud infrastructures.  
+
+🔹 Hands-on experience in **CI/CD pipelines, IaC, and Security automation**  
+🔹 Proficient in **AWS, Azure, Docker, Kubernetes, Terraform, Ansible**  
+🔹 Strong in **Monitoring (Grafana, Prometheus, Loki, ELK)**  
+🔹 Skilled in **Security tools**: SonarQube, Trivy, Snyk  
+🔹 Background in **Linux, Networking, Bash, and Python**  
+
+💡 Bridging the gap between **Development, Security & Operations**  
+🤝 Open to **collaborations, freelance consulting, and DevOps/Cloud projects**  
+🎯 Exploring **Kubernetes & Security automation**  
+🎮 Fun side projects: **Board Game & Mission Game**  
+📧 Contact: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
+
+---
+
+<!-- COLORFUL FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&customColorList=0,10,20,30,40" />
+</p>
