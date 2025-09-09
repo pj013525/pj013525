@@ -1,9 +1,21 @@
 <h1 align="center">Hey Everyone 👋, I'm Padmarao Jonna</h1>
 
-<div align="center">
+<h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future</h3>
 
+<!-- DevSecOps & Tools Row -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="50"/>
 </div>
 
+---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -33,23 +45,36 @@
   </a>
 </p>
 
-
-
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+
+  <!-- DevOps & Containers -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
+
+  <!-- Monitoring & Security -->
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" width="40" height="40"/>
+
+  <!-- Infra & OS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+
+  <!-- Programming & DB -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
@@ -73,10 +98,9 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🌟 AWS & DevSecOps Engineer with **CI/CD, Kubernetes, Terraform, Monitoring** skills  
+🌟 AWS & DevSecOps Engineer with **CI/CD, Kubernetes, Terraform, Monitoring, Security** skills  
 🤝 Open to **collaborations, consulting, and DevOps projects**  
 🎮 I also build fun projects like **Board Game** & **Mission Game**  
 📧 Reach me: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
 
 > *"Automating the future, one pipeline at a time!"*
-in this remove the banner and add DevSecOps and some major tools in that place
