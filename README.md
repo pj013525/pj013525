@@ -83,10 +83,7 @@ Here are some of my highlighted projects 👇
 🔹 Built a **CI/CD pipeline** with **Jenkins, Docker, and Kubernetes**  
 🔹 Deployed on **AWS EKS** with monitoring via **Prometheus + Grafana**  
 🔹 Automated infrastructure using **Terraform**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=Netflix-Project&theme=tokyonight" />
-</p>  
-
+  
 **Repo:** [Netflix Clone Project](https://github.com/pj013525/Netflix-Project.git)
 
 ---
@@ -95,9 +92,6 @@ Here are some of my highlighted projects 👇
 🔹 Fun interactive game built with **Python + Tkinter**  
 🔹 Packaged into a **Docker container** for easy deployment  
 🔹 CI/CD automation using **GitHub Actions**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=New-Boardgame&theme=tokyonight" />
-</p>  
 
 **Repo:** [Board Game Project](https://github.com/pj013525/New-Boardgame.git)
 
@@ -107,9 +101,6 @@ Here are some of my highlighted projects 👇
 🔹 Strategy-based game designed for **learning automation**  
 🔹 Uses **Python scripting + Linux commands**  
 🔹 Includes logging, checkpoints, and a scoring system  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=Spy-Mission-App&theme=tokyonight" />
-</p>  
 
 **Repo:** [Spy-Mission Game Project](https://github.com/pj013525/Spy-Mission-App.git)
 
