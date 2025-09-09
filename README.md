@@ -2,7 +2,9 @@
 
 <h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future</h3>
 
-<!-- DevSecOps & Tools Row -->
+---
+
+<!-- DevSecOps & Tools Showcase -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50"/>
@@ -23,13 +25,13 @@
   <img src="https://komarev.com/ghpvc/?username=pj013525&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/pj013525](https://github.com/pj013525)  
+- 👨‍💻 All of my projects are available at [GitHub Repos](https://github.com/pj013525)  
 - 💬 Ask me about **DevOps, Cloud, and CI/CD**  
 - 📫 How to reach me **padmaraojonna@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/padmarao-jonna" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -41,14 +43,15 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
   <a href="https://tinyurl.com/padmarao" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/personal.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">⚒️ Languages and Tools:</h3>
 <p align="left">
+
   <!-- Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
@@ -96,11 +99,21 @@
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+### 👨‍💼 About Me & 🤝 Open to Collaborations  
 
-🌟 AWS & DevSecOps Engineer with **CI/CD, Kubernetes, Terraform, Monitoring, Security** skills  
-🤝 Open to **collaborations, consulting, and DevOps projects**  
-🎮 I also build fun projects like **Board Game** & **Mission Game**  
-📧 Reach me: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
+I’m **Padmarao Jonna**, an enthusiastic **AWS Cloud & DevSecOps Engineer** passionate about building secure, automated, and scalable cloud infrastructures.  
+
+🔹 I have hands-on experience in **DevOps & DevSecOps practices** — from designing **CI/CD pipelines** to integrating **security & compliance checks** directly into the software delivery lifecycle.  
+🔹 Proficient in **AWS, Azure, Docker, Kubernetes, Terraform, and Ansible**, I focus on **Infrastructure as Code (IaC)** and automation to deliver faster, more reliable, and secure deployments.  
+🔹 Skilled in **monitoring & observability** using **Prometheus, Grafana, Loki, and ELK**, ensuring systems remain highly available and performance issues are detected early.  
+🔹 Experienced in **security tools** such as **SonarQube, Trivy, Snyk**, and best practices like vulnerability scanning, secret management, and compliance enforcement.  
+🔹 Strong background in **Linux, Networking, and Scripting (Bash, Python)** for automation, troubleshooting, and system administration.  
+
+💡 My goal is to **bridge the gap between Development, Security, and Operations** while promoting a culture of automation, reliability, and security.  
+
+🤝 Open to **collaborations, freelance consulting, and exciting DevOps/Cloud projects**  
+🎯 Always exploring new technologies in **Cloud, Kubernetes, and Security automation**  
+🎮 Outside of tech, I love creating fun projects like **Board Game** & **Mission Game**  
+📧 Reach me anytime: [padmaraojonna@gmail.com](mailto:padmaraojonna@gmail.com)  
 
 > *"Automating the future, one pipeline at a time!"*
