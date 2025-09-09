@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Padmarao Jonna</h1>
 
 <div align="center">
-  <!-- Replace banner.png with your custom banner -->
+
   <img src="https://raw.githubusercontent.com/pj013525/pj013525/main/banner.png" alt="Padmarao Jonna | DevOps Engineer Banner">
 </div>
 
