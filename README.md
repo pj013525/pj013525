@@ -14,7 +14,7 @@
 
 ---
 
-<!-- ICON SHOWCASE WITH COLORS -->
+<!-- ICON SHOWCASE -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,ansible,argo,grafana,prometheus,linux,nginx,python,java,mysql,maven,bash&theme=light&perline=8" />
 </div>
@@ -53,7 +53,7 @@
 
 ---
 
-## ⚒️ Languages & Tools (Colorful Section)
+## ⚒️ Languages & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -71,6 +71,50 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects  
+
+Here are some of my highlighted projects 👇  
+
+### 📌 **1. Netflix Clone (DevOps Project)**  
+🔹 Built a **CI/CD pipeline** with **Jenkins, Docker, and Kubernetes**  
+🔹 Deployed on **AWS EKS** with monitoring via **Prometheus + Grafana**  
+🔹 Automated infrastructure using **Terraform**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=netflix-clone-devops&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 **2. Board Game 🎮**  
+🔹 Fun interactive game built with **Python + Tkinter**  
+🔹 Packaged into a **Docker container** for easy deployment  
+🔹 CI/CD automation using **GitHub Actions**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=board-game&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 **3. Mission Game 🚀**  
+🔹 Strategy-based game designed for **learning automation**  
+🔹 Uses **Python scripting + Linux commands**  
+🔹 Includes logging, checkpoints, and scoring system  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=mission-game&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 **4. DevSecOps Pipeline**  
+🔹 Integrated **SonarQube, Trivy, and Snyk** for security scanning  
+🔹 Automated builds with **Jenkins + ArgoCD**  
+🔹 Deployment to **Kubernetes** with GitOps principles  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=devsecops-pipeline&theme=tokyonight" />
 </p>
 
 ---
