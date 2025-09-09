@@ -11,7 +11,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="50" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="50" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" height="50" width="50"/>
+  <img src="https://raw.githubusercontent.com/argoproj/argo-cd/master/docs/assets/argocd-icon.svg" height="50" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="50" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="50" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" width="50"/>
@@ -43,7 +43,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
   <a href="https://tinyurl.com/padmarao" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/personal.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/external-others-inmotus-design/67/000000/external-Portfolio-round-icons-others-inmotus-design.png" height="30" width="40" />
   </a>
 </p>
 
