@@ -9,28 +9,51 @@ I’ve delivered **20+ pipelines, 80+ automated AWS resources, and 15+ container
 
 ## 🔧 Tech Stack
 
-**Cloud & IaC**  
-☁️ AWS | 🔹 Terraform | 🔹 Ansible | 🔹 CloudFormation  
+**☁️ Cloud & IaC**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws&logoColor=white)  
 
-**CI/CD & DevSecOps**  
-🔹 Jenkins | 🔹 GitHub Actions | 🔹 SonarQube | 🔹 Trivy | 🔹 Nexus  
+**⚙️ CI/CD & DevSecOps**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)  
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)  
+![Nexus](https://img.shields.io/badge/Nexus-2D3748?style=for-the-badge&logo=sonatype&logoColor=white)  
 
-**Containers & Orchestration**  
-🐳 Docker | ☸️ Kubernetes (EKS) | 🔹 Helm  
+**🐳 Containers & Orchestration**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)  
 
-**Servers & Monitoring**  
-🌐 Nginx, Apache, Tomcat | 📊 Prometheus | 📈 Grafana | 📝 ELK  
+**🌐 Servers & Monitoring**  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)  
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)  
 
-**Languages & Scripting**  
-💻 Bash | 🐍 Python | ☕ Java/Maven  
+**💻 Languages & Scripting**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
 
 ---
 
 ## 📌 Key Projects
 
+### 🔹 Professional Projects
 - **CIAL Banking Service** → Automated 25+ Python scripts & 20+ Jenkins pipelines.  
 - **Medi Cure Healthcare** → Terraform-driven infra achieving **99.2% reliability**.  
 - **Insure-Me Insurance** → Zero-downtime deployments with Kubernetes.  
+
+### 🎮 Fun / Personal Projects
+- **Board Game** → A CLI-based multiplayer board game in Python with dice-roll logic & scoring.  
+- **Mission Game** → A text-based adventure game in Bash/Python where users complete missions with branching storylines.  
+- **DevOps Playground** → Demo pipelines & infra-automation scripts to practice CI/CD workflows.  
 
 ---
 
