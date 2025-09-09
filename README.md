@@ -4,19 +4,22 @@
 
 </div>
 
-<h3 align="center">🚀 AWS Cloud & DevSecOps Engineer | Automating the Future</h3>
-
-<p align="center">
-  <a href="https://github.com/pj013525">
-    <img src="https://img.shields.io/github/followers/pj013525?label=Follow&style=social" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/padmarao-jonna" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/padmarao-jonna">
-    <img src="https://img.shields.io/badge/LinkedIn-Padmarao%20Jonna-blue?logo=linkedin&style=flat-square" />
+  <a href="https://github.com/pj013525" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-  <a href="mailto:padmaraojonna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square" />
+  <a href="mailto:padmaraojonna@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
+  </a>
+  <a href="https://tinyurl.com/padmarao" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/13683/earth-globe.svg" height="30" width="40" />
   </a>
 </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
