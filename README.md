@@ -84,8 +84,8 @@ Here are some of my highlighted projects 👇
 🔹 Deployed on **AWS EKS** with monitoring via **Prometheus + Grafana**  
 🔹 Automated infrastructure using **Terraform**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=netflix-clone-devops&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=Netflix-Project&theme=tokyonight" />
+</p>  
 
 **Repo:** [Netflix Clone Project](https://github.com/pj013525/Netflix-Project.git)
 
@@ -96,8 +96,8 @@ Here are some of my highlighted projects 👇
 🔹 Packaged into a **Docker container** for easy deployment  
 🔹 CI/CD automation using **GitHub Actions**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=board-game&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=New-Boardgame&theme=tokyonight" />
+</p>  
 
 **Repo:** [Board Game Project](https://github.com/pj013525/New-Boardgame.git)
 
@@ -108,8 +108,8 @@ Here are some of my highlighted projects 👇
 🔹 Uses **Python scripting + Linux commands**  
 🔹 Includes logging, checkpoints, and a scoring system  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=mission-game&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pj013525&repo=Spy-Mission-App&theme=tokyonight" />
+</p>  
 
 **Repo:** [Spy-Mission Game Project](https://github.com/pj013525/Spy-Mission-App.git)
 
